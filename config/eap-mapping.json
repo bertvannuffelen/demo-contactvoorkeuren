@@ -16,7 +16,7 @@
    {
     "name": "toestemming",
     "type": "voc",
-    "eap": "OSLO-Vocabularium-Burgerprofiel.eap",
+    "eap": "OSLO-Toestemming-VOC.eap",
     "diagram": "OSLO-Toestemming",
     "template": "toestemming-voc.j2",
 	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
